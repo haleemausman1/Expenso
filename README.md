@@ -198,25 +198,8 @@ flutter run
 
 ---
 
-## Future Improvements
-
-- AI-powered expense insights
-- Bill reminders
-- Investment tracking
-- Recurring transactions
-- Cloud backup improvements
-- Financial goal analytics
-
----
-
 ## License
 
 This project is open-source and available for educational and personal use.
 
----
 
-## Author
-
-**Haleema**
-
-Flutter Developer | Firebase | Mobile Application Development
