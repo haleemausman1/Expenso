@@ -1,134 +1,134 @@
-# Expenso
+<p align="center">
+  <img src="YOUR_LOGO_PATH_HERE" alt="Expenso Logo" width="170">
+</p>
+
+<h1 align="center">Expenso</h1>
 
 <p align="center">
-  <img src="Expenso-App/assets/icon-512.png" alt="Expenso Logo" width="140"/>
+A modern personal finance management application built with Flutter and Firebase.
 </p>
 
 <p align="center">
-  <strong>A modern personal finance management application built with Flutter and Firebase.</strong>
+Manage your income, expenses, budgets, savings, donations, and financial insights through an intuitive and feature-rich experience.
 </p>
 
 <p align="center">
-  Expenso helps users manage their finances by tracking income, expenses, budgets, savings, donations, and much more through a clean and intuitive interface.
-</p>
-
-<p align="center">
-  <a href="https://expenso-app.vercel.app/">Live Demo</a>
-  •
+  <a href="https://expenso-app.vercel.app/">Live Demo</a> •
   <a href="https://github.com/Jawaria-coder/Expenso/releases/download/v1.0/Expenso_v1.0.apk">Download APK</a>
 </p>
 
 ---
 
-## Overview
+# Overview
 
-Expenso is a cross-platform personal finance management application developed using **Flutter** and **Firebase**. It enables users to monitor their financial activities, organize budgets, manage savings and donation goals, and analyse their spending habits through a user-friendly dashboard.
+Expenso is a cross-platform personal finance management application developed using **Flutter** and **Firebase**.
 
-The application also provides authentication, multi-currency support, voice notes, PDF report generation, live exchange rates, shopping lists, and other productivity tools to simplify personal financial management.
+The application enables users to efficiently monitor their income, expenses, budgets, savings, and donations while providing financial insights through an interactive dashboard.
 
----
-
-## Screenshots
-
-| Login | Dashboard |
-|:------:|:---------:|
-| <img src="screenshots/login.jpeg" width="260"/> | <img src="screenshots/dashboard.jpeg" width="260"/> |
-
-| Add Expense | Monthly Budget |
-|:-----------:|:--------------:|
-| <img src="screenshots/expense.jpeg" width="260"/> | <img src="screenshots/budget.jpeg" width="260"/> |
-
-| Currency Rates | Settings |
-|:--------------:|:--------:|
-| <img src="screenshots/currency_rates.jpeg" width="260"/> | <img src="screenshots/settings.jpeg" width="260"/> |
+Expenso also includes authentication, shopping lists, notes with voice recording, PDF report generation, live currency exchange rates, and multiple personalization options to simplify day-to-day financial management.
 
 ---
 
-## Features
+# Features
 
-### Authentication
+## Authentication
 
-- Secure Email & Password Authentication
+- Email & Password Authentication
 - Google Sign-In
 - Password Recovery
 - User Verification
 
-### Dashboard
+## Finance Management
 
-- Personalized Home Dashboard
 - Wallet Balance
-- Quick Financial Overview
-- Hide/Show Wallet Balance
-
-### Expense & Income Management
-
 - Add Income
 - Add Expenses
-- Categorized Transactions
 - Transaction History
-- Money Transfer
+- Money Transfers
+- Expense Categories
 
-### Budget Management
+## Budget & Goals
 
 - Monthly Budgets
 - Budget Overview
-- Spending Analysis
-
-### Savings & Donations
-
 - Saving Goals
 - Donation Goals
-- Wallet Integration
 
-### Utilities
+## Productivity
 
 - Shopping Lists
 - Notes with Voice Recording
 - Built-in Calculator
-- Currency Converter
-- Live Currency Exchange Rates
 
-### Reports
+## Financial Insights
 
 - Financial Statistics
-- Income Reports
-- Expense Reports
-- Budget Reports
-- Donation Reports
-- Export Reports as PDF
+- PDF Report Generation
+- Live Currency Exchange Rates
 
-### Settings
+## Personalization
 
 - Dark Mode
-- Currency Selection
+- Multi-Currency Support
 - Notifications
 - Account Management
+- Feedback & Support
 - Privacy Policy
 - Terms of Use
-- FAQs
-- About
-- Contact Support
-- Feedback
 
 ---
 
-## Technology Stack
+# Screenshots
 
-| Technology | Purpose |
-|------------|---------|
-| Flutter | Cross-platform Mobile Development |
-| Dart | Programming Language |
-| Firebase Authentication | User Authentication |
-| Cloud Firestore | Database |
-| Firebase Storage | Data Storage |
-| Google Sign-In | Authentication |
-| PDF Package | Report Generation |
-| Flutter Local Notifications | Notifications |
-| Currency Exchange API | Live Exchange Rates |
+## Secure Login
+
+<p align="center">
+<img src="screenshots/login.jpeg" width="300">
+</p>
 
 ---
 
-## Project Structure
+## Financial Dashboard
+
+<p align="center">
+<img src="screenshots/dashboard.jpeg" width="300">
+</p>
+
+---
+
+## Expense Management
+
+<p align="center">
+<img src="screenshots/expense.jpeg" width="300">
+</p>
+
+---
+
+## Monthly Budget Planner
+
+<p align="center">
+<img src="screenshots/budget.jpeg" width="300">
+</p>
+
+---
+
+## Live Currency Exchange Rates
+
+<p align="center">
+<img src="screenshots/currency_rates.jpeg" width="300">
+</p>
+
+---
+
+## Application Settings
+
+<p align="center">
+<img src="screenshots/settings.jpeg" width="300">
+</p>
+
+---
+
+# Project Structure
 
 ```text
 Expenso
@@ -142,6 +142,10 @@ Expenso
 │   │   ├── main.dart
 │   │   └── ...
 │   ├── assets
+│   ├── web
+│   ├── windows
+│   ├── linux
+│   ├── macos
 │   └── pubspec.yaml
 │
 ├── screenshots
@@ -159,27 +163,27 @@ Expenso
 
 ---
 
-## Getting Started
+# Getting Started
 
-### Clone Repository
+## Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Expenso.git
+git clone https://github.com/haleemausman1/Expenso.git
 ```
 
-### Navigate to Project
+## Navigate to the Flutter Project
 
 ```bash
 cd Expenso/Expenso-App
 ```
 
-### Install Dependencies
+## Install Dependencies
 
 ```bash
 flutter pub get
 ```
 
-### Run the Application
+## Run the Application
 
 ```bash
 flutter run
@@ -187,7 +191,7 @@ flutter run
 
 ---
 
-## Supported Platforms
+# Supported Platforms
 
 - Android
 - iOS
@@ -198,8 +202,25 @@ flutter run
 
 ---
 
-## License
+# Future Improvements
+
+- AI-powered spending insights
+- Investment tracking
+- Recurring transactions
+- Bill reminders
+- Advanced financial analytics
+- Cloud backup enhancements
+
+---
+
+# License
 
 This project is open-source and available for educational and personal use.
 
+---
 
+# Author
+
+**Haleema Usman**
+
+Flutter Developer | Firebase | Mobile Application Development
