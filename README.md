@@ -1,18 +1,28 @@
-<p align="center">
-  <img src="YOUR_LOGO_PATH_HERE" alt="Expenso Logo" width="170">
+<p >
+  <a href="https://expenso-app.vercel.app/">
+    <img src="Expenso-download/wallet.png" alt="Expenso Logo" width="170">
+  </a>
 </p>
 
-<h1 align="center">Expenso</h1>
+<h1 >Expenso</h1>
 
-<p align="center">
-A modern personal finance management application built with Flutter and Firebase.
+<p >
+  A modern personal finance management application built with Flutter and Firebase.
 </p>
 
-<p align="center">
-Manage your income, expenses, budgets, savings, donations, and financial insights through an intuitive and feature-rich experience.
+<p>
+  Manage your income, expenses, budgets, savings, donations, and financial insights through an intuitive and feature-rich experience.
 </p>
 
-<p align="center">
+<p>
+  <a href="https://expenso-app.vercel.app/">Live Demo</a>
+  •
+  <a href="https://github.com/Jawaria-coder/Expenso/releases/download/v1.0/Expenso_v1.0.apk">Download APK</a>
+</p>
+
+---
+
+<p>
   <a href="https://expenso-app.vercel.app/">Live Demo</a> •
   <a href="https://github.com/Jawaria-coder/Expenso/releases/download/v1.0/Expenso_v1.0.apk">Download APK</a>
 </p>
@@ -190,29 +200,6 @@ flutter run
 ```
 
 ---
-
-# Supported Platforms
-
-- Android
-- iOS
-- Web
-- Windows
-- macOS
-- Linux
-
----
-
-# Future Improvements
-
-- AI-powered spending insights
-- Investment tracking
-- Recurring transactions
-- Bill reminders
-- Advanced financial analytics
-- Cloud backup enhancements
-
----
-
 # License
 
 This project is open-source and available for educational and personal use.
@@ -223,4 +210,3 @@ This project is open-source and available for educational and personal use.
 
 **Haleema Usman**
 
-Flutter Developer | Firebase | Mobile Application Development
