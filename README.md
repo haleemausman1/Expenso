@@ -1,6 +1,6 @@
 <p >
   <a href="https://expenso-app.vercel.app/">
-    <img src="Expenso-download/wallet.png" alt="Expenso Logo" width="170">
+    <img src="Expenso-download/wallet.png" alt="Expenso Logo" width="500">
   </a>
 </p>
 
