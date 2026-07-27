@@ -20,12 +20,7 @@
   <a href="https://github.com/Jawaria-coder/Expenso/releases/download/v1.0/Expenso_v1.0.apk">Download APK</a>
 </p>
 
----
 
-<p>
-  <a href="https://expenso-app.vercel.app/">Live Demo</a> •
-  <a href="https://github.com/Jawaria-coder/Expenso/releases/download/v1.0/Expenso_v1.0.apk">Download APK</a>
-</p>
 
 ---
 
